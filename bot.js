@@ -32,4 +32,5 @@ if(msg.content === "besharamo"){
 }
   
 })
+
 client.login(process.env.BOT_TOKEN);
