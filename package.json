@@ -1,1 +1,14 @@
-
+{
+  "name": "Samay Raina-bot",
+  "version": "1.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "chessgod1883",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
