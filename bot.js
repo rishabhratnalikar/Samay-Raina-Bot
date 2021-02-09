@@ -6,7 +6,7 @@ client.on('ready', () =>{
   
   console.log("Samay Raina Bot is online")
   
-  })
+})
 
 client.on('message', msg=>{
   
