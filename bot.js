@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 client.on('ready', () =>{
   
-  console.log("Samay Raina Bot is online")
+  console.log('Samay Raina Bot is online')
   
 })
 
